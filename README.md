@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Social Links Profile](./assets/images/screenshot.png)
+![Social Links Profile](./assets/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://pavithra-christy.github.io/social-links-profile/)
 
 ## My Process
 
