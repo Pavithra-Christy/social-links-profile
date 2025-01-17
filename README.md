@@ -68,7 +68,6 @@ In future projects, I plan to:
 
 - Improve on implementing more complex responsive design patterns.
 - Explore additional CSS animation techniques to enhance interactivity.
-- Experiment with accessibility features like ARIA roles to make web pages more inclusive.
 
 ### Useful Resources
 
