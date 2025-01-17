@@ -73,7 +73,6 @@ In future projects, I plan to:
 ### Useful Resources
 
 - [CSS Tricks - Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/) - A comprehensive guide to using CSS variables effectively.
-- [MDN Web Docs - Accessible Rich Internet Applications (ARIA)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) - A great resource for understanding ARIA roles and attributes.
 
 ## Author
 
